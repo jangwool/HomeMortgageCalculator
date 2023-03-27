@@ -17,5 +17,5 @@ Once the user taps the **_Calculate_** button, they will be sent to the next scr
 ## Calculated Amortization Schedule Screen
 ![screen2](screen2.png)
 
-## Download Here:
+## Download Link:
 https://play.google.com/store/apps/details?id=com.jintech.homemortgage&pli=1
